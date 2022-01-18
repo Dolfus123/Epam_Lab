@@ -1,0 +1,15 @@
+C:\Users\Евдоченко\source\repos\Lab_9\bin\Debug\Lab_9.exe.config
+C:\Users\Евдоченко\source\repos\Lab_9\bin\Debug\Lab_9.exe
+C:\Users\Евдоченко\source\repos\Lab_9\bin\Debug\Lab_9.pdb
+C:\Users\Евдоченко\source\repos\Lab_9\obj\Debug\Lab_9.csproj.AssemblyReference.cache
+C:\Users\Евдоченко\source\repos\Lab_9\obj\Debug\MainWindow.g.cs
+C:\Users\Евдоченко\source\repos\Lab_9\obj\Debug\App.g.cs
+C:\Users\Евдоченко\source\repos\Lab_9\obj\Debug\Lab_9_MarkupCompile.cache
+C:\Users\Евдоченко\source\repos\Lab_9\obj\Debug\Lab_9_MarkupCompile.lref
+C:\Users\Евдоченко\source\repos\Lab_9\obj\Debug\MainWindow.baml
+C:\Users\Евдоченко\source\repos\Lab_9\obj\Debug\Lab_9.g.resources
+C:\Users\Евдоченко\source\repos\Lab_9\obj\Debug\Lab_9.Properties.Resources.resources
+C:\Users\Евдоченко\source\repos\Lab_9\obj\Debug\Lab_9.csproj.GenerateResource.cache
+C:\Users\Евдоченко\source\repos\Lab_9\obj\Debug\Lab_9.csproj.CoreCompileInputs.cache
+C:\Users\Евдоченко\source\repos\Lab_9\obj\Debug\Lab_9.exe
+C:\Users\Евдоченко\source\repos\Lab_9\obj\Debug\Lab_9.pdb
