@@ -1,0 +1,12 @@
+C:\Users\Евдоченко\source\repos\Lab_14FW\bin\Debug\Lab_14FW.exe.config
+C:\Users\Евдоченко\source\repos\Lab_14FW\bin\Debug\Lab_14FW.exe
+C:\Users\Евдоченко\source\repos\Lab_14FW\bin\Debug\Lab_14FW.pdb
+C:\Users\Евдоченко\source\repos\Lab_14FW\obj\Debug\Lab_14FW.csproj.AssemblyReference.cache
+C:\Users\Евдоченко\source\repos\Lab_14FW\obj\Debug\Lab_14FW.Properties.Resources.resources
+C:\Users\Евдоченко\source\repos\Lab_14FW\obj\Debug\Lab_14FW.csproj.GenerateResource.cache
+C:\Users\Евдоченко\source\repos\Lab_14FW\obj\Debug\Lab_14FW.csproj.CoreCompileInputs.cache
+C:\Users\Евдоченко\source\repos\Lab_14FW\obj\Debug\Lab_14FW.exe
+C:\Users\Евдоченко\source\repos\Lab_14FW\obj\Debug\Lab_14FW.pdb
+C:\Users\Евдоченко\source\repos\Lab_14FW\obj\Debug\Lab_14FW.FormMain.resources
+C:\Users\Евдоченко\source\repos\Lab_14FW\obj\Debug\Lab_14FW.FormInput.resources
+C:\Users\Евдоченко\source\repos\Lab_14FW\obj\Debug\Lab_14FW.FormResult.resources
